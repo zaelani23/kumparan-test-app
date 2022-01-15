@@ -20,7 +20,7 @@
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/zaelani23/kumparan-test-app/blob/main/Screenshoot/device-2022-01-16-053337.png" height="600" width="300" hspace="40"><img src="https://github.com/zaelani23/kumparan-test-app/blob/main/Screenshoot/device-2022-01-16-053523.png" height="600" width="300" hspace="40">
-<img src="https://github.com/zaelani23/kumparan-test-app/blob/main/Screenshoot/device-2022-01-16-053552.png" height="600" width="300" hspace="40"><img src="https://github.com/zaelani23/kumparan-test-app/blob/main/Screenshoot/device-2022-01-16-053755.png" height="600" width="300" hspace="40">
-<img src="https://github.com/zaelani23/kumparan-test-app/blob/main/Screenshoot/device-2022-01-16-053826.png" height="600" width="300" hspace="40">
+<img src="https://github.com/zaelani23/kumparan-test-app/blob/main/Screenshoots/device-2022-01-16-053337.png" height="600" width="300" hspace="40"><img src="https://github.com/zaelani23/kumparan-test-app/blob/main/Screenshoots/device-2022-01-16-053523.png" height="600" width="300" hspace="40">
+<img src="https://github.com/zaelani23/kumparan-test-app/blob/main/Screenshoots/device-2022-01-16-053552.png" height="600" width="300" hspace="40"><img src="https://github.com/zaelani23/kumparan-test-app/blob/main/Screenshoots/device-2022-01-16-053755.png" height="600" width="300" hspace="40">
+<img src="https://github.com/zaelani23/kumparan-test-app/blob/main/Screenshoots/device-2022-01-16-053826.png" height="600" width="300" hspace="40">
 
