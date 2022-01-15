@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kumparan Test App</string>
+    <string name="user">%s • %s</string>
+    <string name="tct_comments">Comments</string>
+    <string name="txt_albums">Albums</string>
+    <string name="txt_photo">photo</string>
+</resources>
